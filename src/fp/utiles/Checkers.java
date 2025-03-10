@@ -5,7 +5,7 @@ package fp.utiles;
  * Clase de utilidad con métodos para facilitar la gestión de restricciones.
  */
 public class Checkers {
-
+ ////Comentario de prueba
 	/**
 	 * @param textoRestriccion
 	 *     Mensaje que se incluirá en la excepción elevada
